@@ -50,7 +50,7 @@ The application will be available at http://localhost:3000 in your web browser.
 
 <div align="center">
 
-   <img src="/public/codepen.png"/>
+   <img src="/public/codepen_image.png"/>
 
 </div>
 
