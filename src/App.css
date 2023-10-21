@@ -1,0 +1,12 @@
+.custom-classname {
+  height : 340px !important;
+  color: #fff;
+  background: #1d1e22;
+}
+.cm-gutters{
+  background: #1d1e22 !important;
+}
+
+.cm-scroller{
+  background: #1d1e22;
+} 
