@@ -36,6 +36,12 @@ To start the development server and run the application, use the following comma
 
 The application will be [available at ] (http://localhost:3000)  in your web browser.
 
+<div align="center">
+
+   <img src="codepen.png"/>
+
+</div>
+
 # Building for Production
 
 To create a production-ready build of the application, use the following command:
