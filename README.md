@@ -13,57 +13,68 @@ Make sure you have Node.js and npm installed on your computer.
 ### Installation
 
 1. Clone the repository or download the source code.
-
-   ```bash
+ ```bash
 
      git clone https://github.com/yourusername/codepen-clone.git
 
    ```
-
+   
 2. Navigate to the project directory.
 
-   ### `cd codepen-clone`
+  ```bash
+
+     cd codepen-clone
+
+   ```
 
 3. Install the project dependencies.
 
-### `npm install`
+  ```bash
 
-# Running the Application
+     npm install
+
+   ```
+
+## Running the Application
 
 To start the development server and run the application, use the following command:
 
-### `npm start`
+```bash
 
-The application will be [available at ] (http://localhost:3000)  in your web browser.
+     npm start
 
+   ```
+
+The application will be available at  http://localhost:3000  in your web browser.
 <div align="center">
 
    <img src="codepen.png"/>
 
 </div>
 
-# Building for Production
+## Building for Production
 
 To create a production-ready build of the application, use the following command:
 
-### `npm run build`
+  ```bash
+
+     npm run build
+
+   ```
 
 The optimized production build will be available in the build directory.
 
-# Features
+## Features
 
 This is a simplified CodePen clone and may not have all the features of the original CodePen. You can add and enhance features as per your requirements.
 
-# Built With
+## Built With
 React - A JavaScript library for building user interfaces.
 Material-UI - A popular React UI framework.
 
-# Contributing
+## Contributing
 Feel free to contribute to this project if you'd like to add more features or improve it.
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-# Acknowledgments
+## Acknowledgments
 CodePen for the inspiration.
 Happy coding!
