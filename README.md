@@ -48,7 +48,7 @@ To start the development server and run the application, use the following comma
 The application will be available at  http://localhost:3000  in your web browser.
 <div align="center">
 
-   <img src="codepen.png"/>
+   <img src="/public/codepen.png"/>
 
 </div>
 
